@@ -2,7 +2,6 @@
 
 🎓 **MS in Data Science @ University of Arizona (May 2026)**  
 🤖 Aspiring **AI / Machine Learning Engineer** | Full-Stack ML Enthusiast  
-🌎 Based in Boca Raton, FL  
 
 📫 **Email:** rishinath.enugala@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/rishi-enugala](http://www.linkedin.com/in/rishi-enugala)
