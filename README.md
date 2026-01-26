@@ -1,107 +1,15 @@
-# 👋 Hi, I'm Rishinath
+# 💫 About Me:
+I'm currently working as a Research Assistant. I’m a Data Science graduate student with a strong foundation in Machine Learning, NLP, and Full-Stack Development. I enjoy building end-to-end AI applications—from data preprocessing and model training to deploying scalable APIs and interactive web apps.<br><br>I’ve worked professionally as a Software Engineer, mentored students in algorithms and data structures, and built multiple AI-driven projects using LLMs, Transformers, and Django.
 
-🎓 **MS in Data Science @ University of Arizona (May 2026)**  
-🤖 Aspiring **AI / Machine Learning Engineer** | Full-Stack ML Enthusiast  
 
-📫 **Email:** rishinath.enugala@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/rishi-enugala](http://www.linkedin.com/in/rishi-enugala)
-
----
-
-## 🚀 About Me
-
-I’m a Data Science graduate student with a strong foundation in **Machine Learning, NLP, and Full-Stack Development**. I enjoy building **end-to-end AI applications**—from data preprocessing and model training to deploying scalable APIs and interactive web apps.
-
-I’ve worked professionally as a **Software Engineer**, mentored students in **algorithms and data structures**, and built multiple AI-driven projects using **LLMs, Transformers, and Django**.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rishi-1482&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rishi-1482&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-1482&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Rishi-1482&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Skills & Technologies
-
-### 👨‍💻 Programming
-- **Python**, **R**, **JavaScript**, **SQL**
-
-### 🤖 Machine Learning & AI
-- Scikit-learn, TensorFlow, Hugging Face Transformers  
-- NLP, LLMs, OpenAI API, LangChain  
-- Feature Engineering, Model Evaluation, SHAP, XGBoost
-
-### 🌐 Web & Backend
-- Django, Django REST Framework  
-- Streamlit, RESTful APIs  
-- PostgreSQL, MySQL
-
-### ☁️ Cloud & DevOps
-- AWS, Docker, Git, GitHub
-
-### 📊 Data & Visualization
-- NumPy, Pandas, Seaborn  
-- Power BI, Excel
-
-### 🧰 Tools
-- Postman, Jira, Slack, Sentry, Microsoft Office
-
----
-
-## 💼 Experience
-
-### **Software Engineer**  
-**Summit Technology Group (Remote)** | *Jul 2022 – Mar 2023*
-- Built and optimized backend services using **Django ORM and REST APIs**
-- Implemented efficient filtering for loan application workflows
-- Automated email notifications using **Celery**, improving process efficiency
-
-### **Coding Mentor**  
-**KLEF University** | *Jul 2022 – Mar 2023*
-- Mentored **60+ students** in problem solving, DSA, and coding best practices
-- Helped students understand complex algorithms
-- Tracked progress and reported performance to faculty
-
----
-
-## 📌 Featured Projects
-
-### ✉️ Cold Email Generator (LLM-Powered)
-**Tech:** Python, Llama 3.1, LangChain, ChromaDB, Streamlit  
-- Built an AI system that generates **personalized cold emails** from job postings
-- Used **web scraping + vector embeddings** to match portfolio projects
-- Delivered a clean **Streamlit UI** for real-time interaction
-
----
-
-### 🧠 Sentiment Analysis of Amazon Reviews
-**Tech:** Python, NLP, Hugging Face, RoBERTa  
-- Trained a transformer-based sentiment classifier on **50K+ reviews**
-- Achieved **87% accuracy** using fine-tuned RoBERTa
-- Processed **500K+ records** using NLTK for large-scale text cleaning
-
----
-
-### ❤️ Heart Disease Prediction System
-**Tech:** Python, Django, ML, SHAP  
-- Built ML models (Logistic Regression, XGBoost) with **86% accuracy**
-- Developed a web app for risk prediction using health parameters
-- Applied **SHAP** for explainability and feature interpretation
-
----
-
-## 📜 Certifications
-
-- 🟧 **AWS Machine Learning – Specialty**
-- 🟧 **AWS Solutions Architect – Associate**
-- 🟧 **AWS Data Engineer – Associate**
-- 🐍 **Python Institute – Entry-Level Python Programmer**
-- 🧠 **Google TensorFlow Developer**
-
----
-
-
-## 🌱 Currently Learning
-- Advanced NLP & LLM applications  
-- MLOps & scalable ML systems  
-- AI-driven cybersecurity & anomaly detection  
-
----
-
-⭐ **Feel free to explore my repositories and connect with me!**  
-I’m always open to internships, research, and exciting AI projects.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
