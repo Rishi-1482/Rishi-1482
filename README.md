@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 I'm currently working as a Research Assistant. I’m a Data Science graduate student with a strong foundation in Machine Learning, NLP, and Full-Stack Development. I enjoy building end-to-end AI applications—from data preprocessing and model training to deploying scalable APIs and interactive web apps.<br><br>I’ve worked professionally as a Software Engineer, mentored students in algorithms and data structures, and built multiple AI-driven projects using LLMs, Transformers, and Django.
 
 
