@@ -6,20 +6,20 @@ I'm passionate about building intelligent systems with a focus on **AI agents** 
 
 ---
 
-## 🎓 Education
-- **Master's in Data Science** - University of Arizona (In Progress)
+## Education
+- **Master's in Data Science** - University of Arizona 
 - Strong foundation in Machine Learning, NLP, and Full-Stack Development
 
 ---
 
-## 💼 Current Focus
+## Current Focus
 - Designing and implementing **AI agents** for autonomous task execution
 - Optimizing **LLM inference** for scalability and performance
 - Building production-ready AI applications with modern ML frameworks
 
 
 
-## 🌱 Currently Learning
+##  Currently Learning
 - Advanced LLM optimization techniques
 - Distributed systems for AI inference
 - Prompt engineering and fine-tuning strategies
